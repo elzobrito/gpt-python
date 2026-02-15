@@ -1,6 +1,6 @@
-# Toy-GPT (pt-BR)
+# GPT-Python (pt-BR)
 
-Este projeto é uma implementação de um modelo GPT "de brinquedo" (Toy-GPT) em PyTorch. Ele opera a nível de caractere e foi projetado para fins educacionais, demonstrando os componentes chave de um transformador de uma forma compacta e acessível.
+Este projeto é uma implementação de um modelo GPT em PyTorch. Ele opera a nível de caractere e foi projetado para fins educacionais, demonstrando os componentes chave de um transformador de uma forma compacta e acessível.
 
 O modelo é treinado em um conjunto de dados em português do Brasil (`input_ptbr.txt`).
 
